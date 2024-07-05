@@ -1,0 +1,12 @@
+# ninja log v5
+5	738	7416605526717988	CMakeFiles/3_IN_1.dir/main.cpp.obj	23ada3354d03ad88
+22	1002	7416355476501587	CMakeFiles/3_IN_1.dir/The_100_Game.cpp.obj	6ed90e0362a2a4e1
+4	145	7419249669509015	build.ninja	1a160e630033e9ee
+29	1080	7416355477269820	CMakeFiles/3_IN_1.dir/NumberScrabble.cpp.obj	3465f51cdbe0fd05
+962	1119	7416607688604467	3_IN_1.exe	7cf4c44843d2e77c
+6	962	7416607687068172	CMakeFiles/3_IN_1.dir/Subtract_a_square.cpp.obj	6c8a54e2e03e27c2
+6	1131	7419261727542207	CMakeFiles/3_IN_1.dir/main.cpp.obj	23ada3354d03ad88
+15	1146	7419261727701790	CMakeFiles/3_IN_1.dir/Subtract_a_square.cpp.obj	6c8a54e2e03e27c2
+10	1183	7419261728076519	CMakeFiles/3_IN_1.dir/The_100_Game.cpp.obj	6ed90e0362a2a4e1
+13	1289	7419261729109914	CMakeFiles/3_IN_1.dir/NumberScrabble.cpp.obj	3465f51cdbe0fd05
+1289	1433	7419261730511330	3_IN_1.exe	7cf4c44843d2e77c
